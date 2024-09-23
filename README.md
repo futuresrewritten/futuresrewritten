@@ -14,7 +14,10 @@
 
 <p align ="center"> <img width="20" height="20" src = "https://i.postimg.cc/MTh7r82Y/IMG-0121.gif"> ------------- <img width="20" height="20" src = "https://i.postimg.cc/VL9q4T7j/IMG-0120.gif">
 
+![](https://komarev.com/ghpvc/?username=fncval&color=fa86c4&style=plastic&label=hacked)
+
 ㅤ
+
 </h4> 
 <h5 align="center">
 <img src="https://64.media.tumblr.com/2cce59a71b801c89d192678078034d26/d1bf57f4287040b3-0f/s540x810/b151e7aaa99f809432a019a9963af4528390414c.pnj"/>
