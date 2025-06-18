@@ -10,7 +10,7 @@
 
 <div align= "center">
 
-[rentry](https://rentry.co/futuresrewritten) [retrospring](https://retrospring.net/@vbshalazia) [credits](https://www.tumblr.com/cirrusism/731196391918125056/silver-wolf-graphics-like-credit-if?source=share)
+[rentry](https://rentry.co/futuresrewritten) [atabook](https://futurewritten.atabook.org/) [credits](https://www.tumblr.com/cirrusism/731196391918125056/silver-wolf-graphics-like-credit-if?source=share)
 
 <p align ="center"> <img width="20" height="20" src = "https://i.postimg.cc/MTh7r82Y/IMG-0121.gif"> ------------- <img width="20" height="20" src = "https://i.postimg.cc/VL9q4T7j/IMG-0120.gif">
 
